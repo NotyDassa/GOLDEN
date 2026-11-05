@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Golden City V2.8</title>
+
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header class="navbar">
+
+    <div class="logo">
+        GOLDEN CITY <span>V2.8</span>
+    </div>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="server.html">Server</a>
+        <a href="development.html">Development</a>
+        <a href="login.html">Login</a>
+        <a href="register.html" class="gold-btn">JOIN CITY</a>
+    </nav>
+
+</header>
+
+<section class="hero">
+
+    <div class="hero-content">
+
+        <h4>WELCOME TO SRI LANKAN ROLEPLAY</h4>
+
+        <h1>GOLDEN CITY <span>V2.8</span></h1>
+
+        <p>
+            Your Roleplay. Your Story. Your City.
+            Experience a new world of roleplay.
+        </p>
+
+        <a href="register.html" class="gold-btn">
+            JOIN OUR CITY
+        </a>
+
+        <a href="server.html" class="outline-btn">
+            SERVER INFO
+        </a>
+
+    </div>
+
+</section>
+
+<section class="features">
+
+    <div class="feature-card">
+        <h2>01</h2>
+        <h3>WHITELIST</h3>
+        <p>Apply to become a member of Golden City.</p>
+        <a href="whitelist.html">Apply Now →</a>
+    </div>
+
+    <div class="feature-card">
+        <h2>02</h2>
+        <h3>SERVER INFO</h3>
+        <p>Discover everything about our city.</p>
+        <a href="server.html">Explore →</a>
+    </div>
+
+    <div class="feature-card">
+        <h2>03</h2>
+        <h3>DEVELOPMENT</h3>
+        <p>Follow our latest development updates.</p>
+        <a href="development.html">Discover →</a>
+    </div>
+
+</section>
+
+<footer>
+    <h2>GOLDEN CITY V2.8</h2>
+    <p>Your Roleplay. Your Story. Your City.</p>
+    <p>© 2026 Golden City</p>
+</footer>
+
+</body>
+</html>
